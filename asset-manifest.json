@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/collegeWebsite-reactApp/static/css/main.c322ca0f.css",
-    "main.js": "/collegeWebsite-reactApp/static/js/main.4838d365.js",
+    "main.js": "/collegeWebsite-reactApp/static/js/main.65b11c5e.js",
     "static/js/453.72efe5de.chunk.js": "/collegeWebsite-reactApp/static/js/453.72efe5de.chunk.js",
     "static/media/banner.png": "/collegeWebsite-reactApp/static/media/banner.896137787046ed837f10.png",
     "static/media/library.png": "/collegeWebsite-reactApp/static/media/library.06333daf9fcee2c76f90.png",
@@ -15,11 +15,11 @@
     "static/media/user1.jpg": "/collegeWebsite-reactApp/static/media/user1.e0fc14f92d25b077b94c.jpg",
     "index.html": "/collegeWebsite-reactApp/index.html",
     "main.c322ca0f.css.map": "/collegeWebsite-reactApp/static/css/main.c322ca0f.css.map",
-    "main.4838d365.js.map": "/collegeWebsite-reactApp/static/js/main.4838d365.js.map",
+    "main.65b11c5e.js.map": "/collegeWebsite-reactApp/static/js/main.65b11c5e.js.map",
     "453.72efe5de.chunk.js.map": "/collegeWebsite-reactApp/static/js/453.72efe5de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c322ca0f.css",
-    "static/js/main.4838d365.js"
+    "static/js/main.65b11c5e.js"
   ]
 }

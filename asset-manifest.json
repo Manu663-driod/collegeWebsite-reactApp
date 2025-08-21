@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/collegewebsite/static/css/main.9268dd68.css",
-    "main.js": "/collegewebsite/static/js/main.96146527.js",
-    "static/js/453.72efe5de.chunk.js": "/collegewebsite/static/js/453.72efe5de.chunk.js",
-    "static/media/banner.png": "/collegewebsite/static/media/banner.896137787046ed837f10.png",
-    "static/media/library.png": "/collegewebsite/static/media/library.06333daf9fcee2c76f90.png",
-    "static/media/cafeteria.png": "/collegewebsite/static/media/cafeteria.f33027d1fb34e5cd0715.png",
-    "static/media/basketball.png": "/collegewebsite/static/media/basketball.383f35c9170608f41d81.png",
-    "static/media/background.jpg": "/collegewebsite/static/media/background.178156c4e95feba4984d.jpg",
-    "static/media/banner2.jpg": "/collegewebsite/static/media/banner2.db688b4a587ef606817b.jpg",
-    "static/media/certificate.jpg": "/collegewebsite/static/media/certificate.a8b8ac9d2fc997d85d39.jpg",
-    "static/media/about.jpg": "/collegewebsite/static/media/about.4fb954bf3bfaab30b56b.jpg",
-    "static/media/user2.jpg": "/collegewebsite/static/media/user2.0d20d0f69481da48ef11.jpg",
-    "static/media/user1.jpg": "/collegewebsite/static/media/user1.e0fc14f92d25b077b94c.jpg",
-    "index.html": "/collegewebsite/index.html",
-    "main.9268dd68.css.map": "/collegewebsite/static/css/main.9268dd68.css.map",
-    "main.96146527.js.map": "/collegewebsite/static/js/main.96146527.js.map",
-    "453.72efe5de.chunk.js.map": "/collegewebsite/static/js/453.72efe5de.chunk.js.map"
+    "main.css": "/collegeWebsite-reactApp/static/css/main.c322ca0f.css",
+    "main.js": "/collegeWebsite-reactApp/static/js/main.9eefff2e.js",
+    "static/js/453.72efe5de.chunk.js": "/collegeWebsite-reactApp/static/js/453.72efe5de.chunk.js",
+    "static/media/banner.png": "/collegeWebsite-reactApp/static/media/banner.896137787046ed837f10.png",
+    "static/media/library.png": "/collegeWebsite-reactApp/static/media/library.06333daf9fcee2c76f90.png",
+    "static/media/cafeteria.png": "/collegeWebsite-reactApp/static/media/cafeteria.f33027d1fb34e5cd0715.png",
+    "static/media/basketball.png": "/collegeWebsite-reactApp/static/media/basketball.383f35c9170608f41d81.png",
+    "static/media/background.jpg": "/collegeWebsite-reactApp/static/media/background.178156c4e95feba4984d.jpg",
+    "static/media/banner2.jpg": "/collegeWebsite-reactApp/static/media/banner2.db688b4a587ef606817b.jpg",
+    "static/media/certificate.jpg": "/collegeWebsite-reactApp/static/media/certificate.a8b8ac9d2fc997d85d39.jpg",
+    "static/media/about.jpg": "/collegeWebsite-reactApp/static/media/about.4fb954bf3bfaab30b56b.jpg",
+    "static/media/user2.jpg": "/collegeWebsite-reactApp/static/media/user2.0d20d0f69481da48ef11.jpg",
+    "static/media/user1.jpg": "/collegeWebsite-reactApp/static/media/user1.e0fc14f92d25b077b94c.jpg",
+    "index.html": "/collegeWebsite-reactApp/index.html",
+    "main.c322ca0f.css.map": "/collegeWebsite-reactApp/static/css/main.c322ca0f.css.map",
+    "main.9eefff2e.js.map": "/collegeWebsite-reactApp/static/js/main.9eefff2e.js.map",
+    "453.72efe5de.chunk.js.map": "/collegeWebsite-reactApp/static/js/453.72efe5de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9268dd68.css",
-    "static/js/main.96146527.js"
+    "static/css/main.c322ca0f.css",
+    "static/js/main.9eefff2e.js"
   ]
 }
